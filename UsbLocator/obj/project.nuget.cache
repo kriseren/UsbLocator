@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGJE6Eo0Qnh25Vrhoguh/WSez/oLv2PqdCi5TGy4f0ycFS9u/FHFFYK9o1NyyHCUOl8yUpe2rl/RgXbANa9mQw==",
+  "success": true,
+  "projectFilePath": "/media/logan/Rocketek/Proyectos/C#/UsbLocator/UsbLocator/UsbLocator.csproj",
+  "expectedPackageFiles": [
+    "/home/logan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/logan/.nuget/packages/system.codedom/8.0.0-preview.5.23280.8/system.codedom.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/logan/.nuget/packages/system.management/8.0.0-preview.5.23280.8/system.management.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "/home/logan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/logan/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512",
+    "/home/logan/.nuget/packages/xamarin.essentials/1.8.0-preview1/xamarin.essentials.1.8.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}

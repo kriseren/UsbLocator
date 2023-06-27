@@ -1,0 +1,2 @@
+/media/logan/Rocketek/Proyectos/C#/UsbLocator/UsbLocator/bin/Release/net7.0/win-x86/publish/UsbLocator.pdb
+/media/logan/Rocketek/Proyectos/C#/UsbLocator/UsbLocator/bin/Release/net7.0/win-x86/publish/UsbLocator.exe
