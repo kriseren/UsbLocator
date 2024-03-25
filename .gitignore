@@ -1,4 +1,4 @@
 .idea
 .vs 
 UsbLocator/config.json
-UsbLocator/bin
+UsbLocator/bin/*
